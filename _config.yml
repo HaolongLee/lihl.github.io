@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Haolong Li's Persional Homepage"
 title_separator          : "-"
-name                     : &name "Haolong Li/李浩龙"
+name                     : &name "Haolong Li"
 description              : &description "A Ph.D man"
 url                      : https://github.com/HaolongLee/lihl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "HaolongLee/lihl.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Haolong Li/李浩龙"
+  name             : "Haolong Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
