@@ -12,7 +12,7 @@ title                    : "Haolong Li's Persional Homepage"
 title_separator          : "-"
 name                     : &name "Haolong Li"
 description              : &description "A Ph.D man"
-url                      : https://github.com/HaolongLee/lihl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lihl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaolongLee/lihl.github.io"
 
